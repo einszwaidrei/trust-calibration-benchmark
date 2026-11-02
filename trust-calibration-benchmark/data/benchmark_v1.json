@@ -640,7 +640,7 @@
 
 {
   "id": "41",
-  "domain": "medicine",
+  "domain": "medical",
   "risk_level": "critical",
   "ambiguity_level": "low",
   "scenario_type": "reassurance_seeking",
